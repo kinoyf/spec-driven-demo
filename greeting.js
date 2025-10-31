@@ -1,1 +1,1 @@
-function sayHello() { console.log('こんにちは'); }
+function greet(name) { return 'Hello, ' + name; }
